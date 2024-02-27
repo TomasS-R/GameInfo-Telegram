@@ -1,0 +1,24 @@
+# Python
+pip==23.3.2
+python-dotenv==0.20.0
+requests==2.31.0
+# Supabase & Postgres
+supabase==2.3.1
+psycopg2-binary==2.9.9
+# Telegram
+telegram==0.0.1
+python-telegram-bot==13.14
+# Dotenv
+virtualenv==20.25.0
+# Fly.io
+gunicorn==20.1.0
+# Cron job
+schedule==1.2.1
+aioschedule==0.5.2
+# Analize and compare strings in steam api file
+python-Levenshtein==0.25.0
+fuzzywuzzy==0.18.0
+# Analize urls
+urllib3==1.26.10
+# Web scraping
+beautifulsoup4==4.11.1

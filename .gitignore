@@ -1,0 +1,6 @@
+.env
+__pycache__
+ubisoftStoreApi.py
+# Virtual space
+telegram_game_bot
+readme
